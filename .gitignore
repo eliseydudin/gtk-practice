@@ -5,3 +5,6 @@ builddir/
 compile_commands.json
 # macos 
 .DS_Store
+# editor config
+.idea/
+.vscode/
